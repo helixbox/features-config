@@ -14,7 +14,7 @@ Controls whether the feature is available for a specific address. `available` is
 - []: all addresses can use the feature
 
 ## Id
-Currently, it is just used for Morpho vaults, and it is used as the id of the Morpho vault.
+Currently, it is just used for vaults, and it is used as the id of the vault.
 
 ## Action
 Controls the action that the feature manages.
