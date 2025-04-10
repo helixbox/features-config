@@ -4,8 +4,9 @@
 
 ### Hidden [Highest priority]
 Control whether to show or hide the feature, ignoring the whitelist
-- true: hidden
-- false: visible
+- 0: visible for all addresses
+- 1: visible for only whitelisted addresses
+- 2: hidden for all addresses
 
 ### Whitelist [Second priority]
 Controls whether the feature is available for a specific address. `available` is true if the address is in the whitelist. When the whitelist is empty, `available` is true for all addresses. When hidden is true, this control is invalid.

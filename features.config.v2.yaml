@@ -1,31 +1,31 @@
 - name: "Gauntlet USDC Core"
   id: "d138d447-4da6-4666-be38-67893193f981"
   action: "general"
-  hidden: false
+  hidden: 0
   whitelist: 
 
 - name: "Gauntlet USDC Core"
   id: "d138d447-4da6-4666-be38-67893193f981"
   action: "deposit"
-  hidden: false
+  hidden: 0
   whitelist: 
 
 - name: "Gauntlet USDC Core"
   id: "d138d447-4da6-4666-be38-67893193f981"
   action: "withdraw"
-  hidden: false
+  hidden: 0
   whitelist: 
 
 - name: "Gauntlet USDC Core"
   id: "d138d447-4da6-4666-be38-67893193f981"
   action: "rewards"
-  hidden: false
+  hidden: 0
   whitelist: 
 
 - name: "Steakhouse sUSDS"
   id: "040fd8ea-a2f9-4616-a649-27774352eb06"
   action: "general"
-  hidden: false
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
@@ -51,7 +51,7 @@
 - name: "Steakhouse sUSDS"
   id: "040fd8ea-a2f9-4616-a649-27774352eb06"
   action: "deposit"
-  hidden: false
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
@@ -77,7 +77,7 @@
 - name: "Steakhouse sUSDS"
   id: "040fd8ea-a2f9-4616-a649-27774352eb06"
   action: "withdraw"
-  hidden: false
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
@@ -103,7 +103,7 @@
 - name: "Steakhouse sUSDS"
   id: "040fd8ea-a2f9-4616-a649-27774352eb06"
   action: "rewards"
-  hidden: false
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
@@ -128,22 +128,22 @@
 
 - name: "Sky"
   action: "general"
-  hidden: false
+  hidden: 0
   whitelist: 
 
 - name: "Sky"
   action: "deposit"
-  hidden: false
+  hidden: 0
   whitelist: 
 
 - name: "Sky"
   action: "withdraw"
-  hidden: false
+  hidden: 0
   whitelist: 
 
 - name: "AIbot"
   action: "general"
-  hidden: false
+  hidden: 0
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
