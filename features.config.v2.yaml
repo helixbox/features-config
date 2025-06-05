@@ -67,7 +67,7 @@
 - name: "Summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "general"
-  hidden: 0
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
@@ -93,7 +93,7 @@
 - name: "Summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "deposit"
-  hidden: 0
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
@@ -119,7 +119,7 @@
 - name: "Summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "withdraw"
-  hidden: 0
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
@@ -145,7 +145,7 @@
 - name: "Summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "rewards"
-  hidden: 0
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
@@ -171,7 +171,7 @@
 - name: "Summer.fi USDC"
   id: "summer.fi-base-usdc"
   action: "general"
-  hidden: 0
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
@@ -197,7 +197,7 @@
 - name: "Summer.fi USDC"
   id: "summer.fi-base-usdc"
   action: "deposit"
-  hidden: 0
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
@@ -223,7 +223,7 @@
 - name: "Summer.fi USDC"
   id: "summer.fi-base-usdc"
   action: "withdraw"
-  hidden: 0
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
@@ -249,7 +249,7 @@
 - name: "Summer.fi USDC"
   id: "summer.fi-base-usdc"
   action: "rewards"
-  hidden: 0
+  hidden: 1
   whitelist: 
     - "0x9F33a4809aA708d7a399fedBa514e0A0d15EfA85"
     - "0x5BaFEAf57Ad6474aDCc720Bd2e724E908AA0d233"
