@@ -167,19 +167,37 @@
   whitelist: 
 
 - name: "Sky"
-  id: "sky-1"
+  id: "sky-8453"
   action: "general"
   hidden: 0
   whitelist: 
 
 - name: "Sky"
-  id: "sky-1"
+  id: "sky-8453"
   action: "deposit"
   hidden: 0
   whitelist: 
 
 - name: "Sky"
-  id: "sky-1"
+  id: "sky-8453"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+  - name: "Sky"
+  id: "sky-42161"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Sky"
+  id: "sky-42161"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Sky"
+  id: "sky-42161"
   action: "withdraw"
   hidden: 0
   whitelist: 
