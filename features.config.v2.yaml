@@ -184,7 +184,7 @@
   hidden: 0
   whitelist: 
 
-  - name: "Sky"
+- name: "Sky"
   id: "sky-42161"
   action: "general"
   hidden: 0
