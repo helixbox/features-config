@@ -130,6 +130,96 @@
   hidden: 0
   whitelist: 
 
+- name: "Fluid"
+  id: "fluid-arbitrum-usdc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-arbitrum-usdc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-arbitrum-usdc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-usdc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-usdc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-usdc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-eurc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-eurc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-eurc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdt"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdt"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdt"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
 - name: "AIbot"
   action: "general"
   hidden: 0
