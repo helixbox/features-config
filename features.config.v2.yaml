@@ -184,50 +184,122 @@
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC.e"
+- name: "summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "general"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC.e"
+- name: "summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "deposit"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC.e"
+- name: "summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "withdraw"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC.e"
+- name: "summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "rewards"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC"
+- name: "summer.fi USDC"
   id: "summer.fi-base-usdc"
   action: "general"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC"
+- name: "summer.fi USDC"
   id: "summer.fi-base-usdc"
   action: "deposit"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC"
+- name: "summer.fi USDC"
   id: "summer.fi-base-usdc"
   action: "withdraw"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC"
+- name: "summer.fi USDC"
   id: "summer.fi-base-usdc"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi EURC"
+  id: "summer.fi-base-eurc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi EURC"
+  id: "summer.fi-base-eurc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi EURC"
+  id: "summer.fi-base-eurc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi EURC"
+  id: "summer.fi-base-eurc"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDT"
+  id: "summer.fi-arbitrum-usdt"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDT"
+  id: "summer.fi-arbitrum-usdt"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDT"
+  id: "summer.fi-arbitrum-usdt"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDT"
+  id: "summer.fi-arbitrum-usdt"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDC"
+  id: "summer.fi-arbitrum-usdc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDC"
+  id: "summer.fi-arbitrum-usdc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDC"
+  id: "summer.fi-arbitrum-usdc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDC"
+  id: "summer.fi-arbitrum-usdc"
   action: "rewards"
   hidden: 0
   whitelist: 
