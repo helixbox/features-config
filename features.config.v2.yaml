@@ -46,68 +46,278 @@
   hidden: 0
   whitelist: 
 
+- name: "Spark USDC Vault"
+  id: "5ebe85c0-0049-47bd-b6ab-ec913189191a"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Spark USDC Vault"
+  id: "5ebe85c0-0049-47bd-b6ab-ec913189191a"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Spark USDC Vault"
+  id: "05ebe85c0-0049-47bd-b6ab-ec913189191a"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Spark USDC Vault"
+  id: "5ebe85c0-0049-47bd-b6ab-ec913189191a"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+
+- name: "Seamless USDC Vault"
+  id: "c21fd59e-a9c1-437e-8a91-fbdfc88d29fd"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Seamless USDC Vault"
+  id: "c21fd59e-a9c1-437e-8a91-fbdfc88d29fd"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Seamless USDC Vault"
+  id: "c21fd59e-a9c1-437e-8a91-fbdfc88d29fd"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Seamless USDC Vault"
+  id: "c21fd59e-a9c1-437e-8a91-fbdfc88d29fd"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+  
+- name: "Moonwell Flagship USDC"
+  id: "8fbbd2aa-add5-4398-9cae-ba008dbc1764"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Moonwell Flagship USDC"
+  id: "8fbbd2aa-add5-4398-9cae-ba008dbc1764"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Moonwell Flagship USDC"
+  id: "8fbbd2aa-add5-4398-9cae-ba008dbc1764"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Moonwell Flagship USDC"
+  id: "8fbbd2aa-add5-4398-9cae-ba008dbc1764"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+  
+- name: "Compound USDC"
+  id: "ab292780-630b-40ed-945b-943e6b75286e"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDC"
+  id: "ab292780-630b-40ed-945b-943e6b75286e"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDC"
+  id: "ab292780-630b-40ed-945b-943e6b75286e"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDC"
+  id: "ab292780-630b-40ed-945b-943e6b75286e"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+  
+- name: "Compound USDT"
+  id: "8b86cff5-49ec-43c3-902c-2268658819b7"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDT"
+  id: "8b86cff5-49ec-43c3-902c-2268658819b7"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDT"
+  id: "8b86cff5-49ec-43c3-902c-2268658819b7"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDT"
+  id: "8b86cff5-49ec-43c3-902c-2268658819b7"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+
 - name: "Sky"
-  id: "sky-1"
+  id: "sky-8453"
   action: "general"
   hidden: 0
   whitelist: 
 
 - name: "Sky"
-  id: "sky-1"
+  id: "sky-8453"
   action: "deposit"
   hidden: 0
   whitelist: 
 
 - name: "Sky"
-  id: "sky-1"
+  id: "sky-8453"
   action: "withdraw"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC.e"
+  - name: "Sky"
+  id: "sky-42161"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Sky"
+  id: "sky-42161"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Sky"
+  id: "sky-42161"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "general"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC.e"
+- name: "summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "deposit"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC.e"
+- name: "summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "withdraw"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC.e"
+- name: "summer.fi USDC.e"
   id: "summer.fi-sonic-usdc.e"
   action: "rewards"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC"
+- name: "summer.fi USDC"
   id: "summer.fi-base-usdc"
   action: "general"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC"
+- name: "summer.fi USDC"
   id: "summer.fi-base-usdc"
   action: "deposit"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC"
+- name: "summer.fi USDC"
   id: "summer.fi-base-usdc"
   action: "withdraw"
   hidden: 0
   whitelist: 
 
-- name: "Summer.fi USDC"
+- name: "summer.fi USDC"
   id: "summer.fi-base-usdc"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi EURC"
+  id: "summer.fi-base-eurc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi EURC"
+  id: "summer.fi-base-eurc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi EURC"
+  id: "summer.fi-base-eurc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi EURC"
+  id: "summer.fi-base-eurc"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDT"
+  id: "summer.fi-arbitrum-usdt"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDT"
+  id: "summer.fi-arbitrum-usdt"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDT"
+  id: "summer.fi-arbitrum-usdt"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDT"
+  id: "summer.fi-arbitrum-usdt"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDC"
+  id: "summer.fi-arbitrum-usdc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDC"
+  id: "summer.fi-arbitrum-usdc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDC"
+  id: "summer.fi-arbitrum-usdc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "summer.fi USDC"
+  id: "summer.fi-arbitrum-usdc"
   action: "rewards"
   hidden: 0
   whitelist: 
@@ -126,6 +336,96 @@
 
 - name: "Fluid"
   id: "fluid-arbitrum-usdt"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-arbitrum-usdc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-arbitrum-usdc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-arbitrum-usdc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-usdc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-usdc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-usdc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-eurc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-eurc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-base-eurc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdc"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdc"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdc"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdt"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdt"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Fluid"
+  id: "fluid-polygon-usdt"
   action: "withdraw"
   hidden: 0
   whitelist: 
@@ -154,3 +454,4 @@
     - "0x5a27EA94C9Cc4f17aF10bDC3d78e4B82a9B9eAA9"
     - "0x2632e9FcD5Ec6c9C67E4CF82F4cFe770e7faE55E"
     - "0x148Bc80c20c6048F9DE619B2655816e64Ab33312"
+    - "0x9821FBf42aC75Bb89208c6Eb9AdB0b75942Cd991"
