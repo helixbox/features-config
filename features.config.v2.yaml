@@ -46,6 +46,126 @@
   hidden: 0
   whitelist: 
 
+- name: "Spark USDC Vault"
+  id: "5ebe85c0-0049-47bd-b6ab-ec913189191a"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Spark USDC Vault"
+  id: "5ebe85c0-0049-47bd-b6ab-ec913189191a"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Spark USDC Vault"
+  id: "05ebe85c0-0049-47bd-b6ab-ec913189191a"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Spark USDC Vault"
+  id: "5ebe85c0-0049-47bd-b6ab-ec913189191a"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+
+- name: "Seamless USDC Vault"
+  id: "c21fd59e-a9c1-437e-8a91-fbdfc88d29fd"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Seamless USDC Vault"
+  id: "c21fd59e-a9c1-437e-8a91-fbdfc88d29fd"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Seamless USDC Vault"
+  id: "c21fd59e-a9c1-437e-8a91-fbdfc88d29fd"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Seamless USDC Vault"
+  id: "c21fd59e-a9c1-437e-8a91-fbdfc88d29fd"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+  
+- name: "Moonwell Flagship USDC"
+  id: "8fbbd2aa-add5-4398-9cae-ba008dbc1764"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Moonwell Flagship USDC"
+  id: "8fbbd2aa-add5-4398-9cae-ba008dbc1764"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Moonwell Flagship USDC"
+  id: "8fbbd2aa-add5-4398-9cae-ba008dbc1764"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Moonwell Flagship USDC"
+  id: "8fbbd2aa-add5-4398-9cae-ba008dbc1764"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+  
+- name: "Compound USDC"
+  id: "ab292780-630b-40ed-945b-943e6b75286e"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDC"
+  id: "ab292780-630b-40ed-945b-943e6b75286e"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDC"
+  id: "ab292780-630b-40ed-945b-943e6b75286e"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDC"
+  id: "ab292780-630b-40ed-945b-943e6b75286e"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+  
+- name: "Compound USDT"
+  id: "8b86cff5-49ec-43c3-902c-2268658819b7"
+  action: "general"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDT"
+  id: "8b86cff5-49ec-43c3-902c-2268658819b7"
+  action: "deposit"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDT"
+  id: "8b86cff5-49ec-43c3-902c-2268658819b7"
+  action: "withdraw"
+  hidden: 0
+  whitelist: 
+
+- name: "Compound USDT"
+  id: "8b86cff5-49ec-43c3-902c-2268658819b7"
+  action: "rewards"
+  hidden: 0
+  whitelist: 
+
 - name: "Sky"
   id: "sky-1"
   action: "general"
